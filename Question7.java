@@ -37,8 +37,8 @@ class generics1{
         String y=obj.getob2();
         double z=obj.getob3();
         
-        System.out.println("Value of x "+x);
-        System.out.println("Value of y "+y);
-        System.out.println("Value of z "+z);
+        System.out.println("Value of Integer "+x);
+        System.out.println("Value of String "+y);
+        System.out.println("Value of Double "+z);
     }
 }
