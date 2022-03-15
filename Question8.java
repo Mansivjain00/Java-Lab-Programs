@@ -17,9 +17,6 @@ public class Father {
         if(a<0){
             throw new WrongAge("Age is less than 0");
         }
-        else
-            System.out.println("Valid");
-    }
 }
 
 public class Son1 extends Father{
